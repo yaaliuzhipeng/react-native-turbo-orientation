@@ -1,0 +1,71 @@
+{
+  "modules": {
+    "NativeTurboOrientation": {
+      "type": "NativeModule",
+      "aliasMap": {},
+      "enumMap": {},
+      "spec": {
+        "properties": [
+          {
+            "name": "lock",
+            "optional": false,
+            "typeAnnotation": {
+              "type": "FunctionTypeAnnotation",
+              "returnTypeAnnotation": {
+                "type": "VoidTypeAnnotation"
+              },
+              "params": [
+                {
+                  "name": "orientation",
+                  "optional": false,
+                  "typeAnnotation": {
+                    "type": "StringTypeAnnotation"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "name": "toggleHomeIndicatorOrSinkStatusBar",
+            "optional": false,
+            "typeAnnotation": {
+              "type": "FunctionTypeAnnotation",
+              "returnTypeAnnotation": {
+                "type": "VoidTypeAnnotation"
+              },
+              "params": [
+                {
+                  "name": "on",
+                  "optional": false,
+                  "typeAnnotation": {
+                    "type": "BooleanTypeAnnotation"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "name": "toggleNativeObserver",
+            "optional": false,
+            "typeAnnotation": {
+              "type": "FunctionTypeAnnotation",
+              "returnTypeAnnotation": {
+                "type": "VoidTypeAnnotation"
+              },
+              "params": [
+                {
+                  "name": "on",
+                  "optional": false,
+                  "typeAnnotation": {
+                    "type": "BooleanTypeAnnotation"
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "moduleName": "RTNTurboOrientation"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/_sseon/data/app/rn0720/node_modules/react-native-turbo-orientation/android/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest1009371239609103468.xml:2:13-83
+INJECTED from /Users/_sseon/data/app/rn0720/node_modules/react-native-turbo-orientation/android/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest1009371239609103468.xml:2:13-83
+INJECTED from /Users/_sseon/data/app/rn0720/node_modules/react-native-turbo-orientation/android/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest1009371239609103468.xml:2:13-83
+	package
+		INJECTED from /Users/_sseon/data/app/rn0720/node_modules/react-native-turbo-orientation/android/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest1009371239609103468.xml
+		ADDED from /Users/_sseon/data/app/rn0720/node_modules/react-native-turbo-orientation/android/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest1009371239609103468.xml:2:13-83
+		INJECTED from /Users/_sseon/data/app/rn0720/node_modules/react-native-turbo-orientation/android/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest1009371239609103468.xml
+	xmlns:android
+		ADDED from /Users/_sseon/data/app/rn0720/node_modules/react-native-turbo-orientation/android/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest1009371239609103468.xml:2:23-81
+uses-sdk
+INJECTED from /Users/_sseon/data/app/rn0720/node_modules/react-native-turbo-orientation/android/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest1009371239609103468.xml reason: use-sdk injection requested
+INJECTED from /Users/_sseon/data/app/rn0720/node_modules/react-native-turbo-orientation/android/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest1009371239609103468.xml
+INJECTED from /Users/_sseon/data/app/rn0720/node_modules/react-native-turbo-orientation/android/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest1009371239609103468.xml
+INJECTED from /Users/_sseon/data/app/rn0720/node_modules/react-native-turbo-orientation/android/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest1009371239609103468.xml
+INJECTED from /Users/_sseon/data/app/rn0720/node_modules/react-native-turbo-orientation/android/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest1009371239609103468.xml
+	android:targetSdkVersion
+		INJECTED from /Users/_sseon/data/app/rn0720/node_modules/react-native-turbo-orientation/android/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest1009371239609103468.xml
+		ADDED from /Users/_sseon/data/app/rn0720/node_modules/react-native-turbo-orientation/android/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest1009371239609103468.xml
+		INJECTED from /Users/_sseon/data/app/rn0720/node_modules/react-native-turbo-orientation/android/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest1009371239609103468.xml
+	android:minSdkVersion
+		INJECTED from /Users/_sseon/data/app/rn0720/node_modules/react-native-turbo-orientation/android/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest1009371239609103468.xml
+		ADDED from /Users/_sseon/data/app/rn0720/node_modules/react-native-turbo-orientation/android/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest1009371239609103468.xml
+		INJECTED from /Users/_sseon/data/app/rn0720/node_modules/react-native-turbo-orientation/android/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest1009371239609103468.xml

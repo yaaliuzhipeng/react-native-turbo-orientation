@@ -1,0 +1,44 @@
+{
+    "name": "react-native-turbo-orientation",
+    "version": "0.0.1",
+    "description": "react-native",
+    "react-native": "js/index",
+    "source": "js/index",
+    "main": "js/index",
+    "files": [
+        "js",
+        "android",
+        "ios",
+        "react-native-turbo-orientation.podspec",
+        "!android/build",
+        "!ios/build",
+        "!**/__tests__",
+        "!**/__fixtures__",
+        "!**/__mocks__"
+    ],
+    "keywords": [
+        "react-native",
+        "ios",
+        "android"
+    ],
+    "repository": "https://github.com/yaaliuzhipeng/react-native-turbo-orientation",
+    "author": "yaaliuzhipeng yaaliuzhipeng@outlook.com (https://github.com/yaaliuzhipeng)",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/yaaliuzhipeng/react-native-turbo-orientation/issues"
+    },
+    "homepage": "https://github.com/yaaliuzhipeng/react-native-turbo-orientation#readme",
+    "devDependencies": {},
+    "peerDependencies": {
+        "react": "*",
+        "react-native": "*"
+    },
+    "codegenConfig": {
+        "name": "RTNTurboOrientationSpec",
+        "type": "modules",
+        "jsSrcsDir": "js",
+        "android": {
+            "javaPackageName": "com.sseon.turbo.orientation"
+        }
+    }
+}
