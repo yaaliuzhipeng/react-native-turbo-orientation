@@ -54,6 +54,14 @@ class TurboOrientationModule(reactContext: ReactApplicationContext) : NativeTurb
     fun getWindow(): Window? {
         return context?.currentActivity?.window
     }
+    
+    override fun addListener(event:String?){
+        //ignore
+    }
+
+    override fun removeListeners(count:Double){
+        //ignore
+    }
 
     override fun getName() = NAME
 
